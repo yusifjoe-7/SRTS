@@ -4,6 +4,19 @@
 
 The idea is simple: instead of reviewing the same material every day, SRTS schedules previous chapters for review using increasing intervals.
 
+
+## 📦 Installation
+
+SRTS is currently ready to build and use.
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yusifjoe-7/SRTS.git
+cd SRTS
+sudo cp srts /usr/local/bin/
+```
+
 ## 🧠 Spaced Review System
 
 SRTS is based on a level system where each level represents a longer review interval:
@@ -263,8 +276,14 @@ The underlying principle is **spaced repetition**: review material at increasing
 * [x] Total-day calculation
 * [x] Review schedule generation
 * [x] Basic help command
+* [x] Regular CLI
 * [ ] Interactive CLI
-* [ ] Add more features to thes to-do-list to add to Interactive CLI
+* [ ] Define interactive CLI features
+* [ ] Add interactive CLI features
+* [ ] Persistent data
+* [ ] Review history
+* [ ] Progress tracking
+* [ ] Statistics
 
 ---
 
