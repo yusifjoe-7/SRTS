@@ -29,6 +29,7 @@ void create(int days_num){
         day_update(day, num_of_day);
         days_list.push_back(day);
 
+        std::cout<<std::endl;
         std::cout<<std::endl<<GREEN<<" -------- day "<<num_of_day<<" --------"<<RESET<<std::endl<<std::endl;
         std::cout<<std::endl<<BB<<"=> "<<RESET;
         cout_aday(day.day_num);
