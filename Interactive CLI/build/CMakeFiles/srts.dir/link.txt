@@ -1,1 +1,0 @@
-/usr/sbin/c++ -Wl,--dependency-file=CMakeFiles/srts.dir/link.d CMakeFiles/srts.dir/main.cpp.o CMakeFiles/srts.dir/tokens/get_tokens.cpp.o CMakeFiles/srts.dir/tokens/handle_tokens_commands.cpp.o CMakeFiles/srts.dir/get_days/get_days.cpp.o -o srts

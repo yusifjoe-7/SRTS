@@ -1,3 +1,0 @@
-/home/joe/Data/cpp-projects/srts/Interactive CLI/build/CMakeFiles/srts.dir
-/home/joe/Data/cpp-projects/srts/Interactive CLI/build/CMakeFiles/edit_cache.dir
-/home/joe/Data/cpp-projects/srts/Interactive CLI/build/CMakeFiles/rebuild_cache.dir
